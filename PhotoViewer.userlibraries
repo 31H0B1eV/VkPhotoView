@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="ComAndroidSupportAppcompatV71901.aar">
+    <archive path="/home/arzinoviev/Work/PhotoViewer/photoviewer/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/classes.jar" />
+    <archive path="/home/arzinoviev/Work/PhotoViewer/photoviewer/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/res" />
+  </library>
+  <library name="junit-4.11" />
+  <library name="universal-image-loader-1.9.1">
+    <archive path="/home/arzinoviev/Work/PhotoViewer/photoviewer/libs/universal-image-loader-1.9.1.jar" />
+  </library>
+  <library name="robotium-solo-5.0.1" />
+  <library name="library-1.0.1">
+    <archive path="/home/arzinoviev/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.1/6620d542981e7be6578fe75135f9ff97f14b5df6/library-1.0.1.jar" />
+  </library>
+  <library name="support-v4-19.0.1">
+    <archive path="/home/arzinoviev/AndroidSDK/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar" />
+  </library>
+  <library name="Gradle: library-1.0.1">
+    <archive path="/home/arzinoviev/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.1/6620d542981e7be6578fe75135f9ff97f14b5df6/library-1.0.1.jar" />
+  </library>
+  <library name="Gradle: support-v4-19.0.1">
+    <archive path="/home/arzinoviev/AndroidSDK/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar" />
+  </library>
+  <library name="Gradle: universal-image-loader-1.9.1">
+    <archive path="/home/arzinoviev/Work/PhotoViewer/photoviewer/libs/universal-image-loader-1.9.1.jar" />
+  </library>
+  <library name="Gradle: ComAndroidSupportAppcompatV71901.aar">
+    <archive path="/home/arzinoviev/Work/PhotoViewer/photoviewer/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/classes.jar" />
+    <archive path="/home/arzinoviev/Work/PhotoViewer/photoviewer/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/res" />
+  </library>
+</eclipse-userlibraries>
+
